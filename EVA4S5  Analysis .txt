@@ -1,0 +1,32 @@
+ EVA4S5--1st.
+
+Model Includes:
+Batch Normalization 
+Dropout
+Avergae Pooling
+
+
+EVA4S5--2nd
+
+Model Includes:
+Changing hue, saturation and brightness
+Batch Normalization 
+Dropout
+Avergae Pooling
+
+Loss not improving in the progressive layers
+
+EVA4S5--3rd + 4th
+Drop in Validation accuracy probably network is too deep
+
+Model Includes:
+Resizing image
+Changing hue, saturation and brightness
+Batch Normalization 
+Dropout
+Avergae Pooling
+
+
+4th - Scheduler
+
+
